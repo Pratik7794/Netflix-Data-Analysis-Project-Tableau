@@ -5,4 +5,6 @@ This project leverages Tableau to create dynamic and insightful visualizations o
 
 # Technologies Used
 
+•  Tableau
 
+•  Excel
