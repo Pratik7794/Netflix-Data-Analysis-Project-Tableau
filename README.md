@@ -28,6 +28,13 @@ This project leverages Tableau to create dynamic and insightful visualizations o
 ![image](https://github.com/user-attachments/assets/171574f4-ff2d-4856-98e0-4ade94afc00e)
 
 
+# Dashboard content 
+
+The Tableau dashboard develop this project provides an interactive visualizations of the analyzed data. It allows you to explore various 
+aspects of Netflix content such as Content by Rating, Movies and Tv shows distrubution, Top directors and categories, Yearly progression and more.
+
+
+
 
 
 
