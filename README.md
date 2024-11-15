@@ -25,6 +25,9 @@ This project leverages Tableau to create dynamic and insightful visualizations o
 
 # Dashboad
 
+![image](https://github.com/user-attachments/assets/171574f4-ff2d-4856-98e0-4ade94afc00e)
+
+
 
 
 
