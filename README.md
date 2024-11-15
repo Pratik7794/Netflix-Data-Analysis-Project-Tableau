@@ -14,7 +14,7 @@ This project leverages Tableau to create dynamic and insightful visualizations o
 
 • Dataset collected from online.
 
-• Data Cleaning & Processing in Excel and Power BI
+• Data Cleaning & Processing in Excel and Tableau
 
 • Analyze the data
 
